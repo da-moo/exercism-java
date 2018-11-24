@@ -1,0 +1,13 @@
+# exercism config
+**/.exercism/
+
+# java specific build artifacts
+**/bin/
+**/build/
+**/.gradle/
+**/.settings/
+**/.classpath
+**/.project
+
+# misc
+.DS_Store
